@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora-apg/static/css/main.69948e47.css",
+    "main.js": "/calculadora-apg/static/js/main.e8c9c104.js",
+    "static/media/desktop.jpg": "/calculadora-apg/static/media/desktop.288affeda8fe5695c2f8.jpg",
+    "static/media/logoapg.png": "/calculadora-apg/static/media/logoapg.d7e3de171a4b4da789cb.png",
+    "static/media/calculadoraapg.png": "/calculadora-apg/static/media/calculadoraapg.433e951346ccb9ab098f.png",
+    "index.html": "/calculadora-apg/index.html",
+    "main.69948e47.css.map": "/calculadora-apg/static/css/main.69948e47.css.map",
+    "main.e8c9c104.js.map": "/calculadora-apg/static/js/main.e8c9c104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69948e47.css",
+    "static/js/main.e8c9c104.js"
+  ]
+}
